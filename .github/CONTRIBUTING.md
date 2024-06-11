@@ -1,1 +1,0 @@
-See https://github.com/josStorer/chatGPTBox/wiki/Development&Contributing
